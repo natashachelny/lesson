@@ -16,9 +16,9 @@ mean=(first+second+third)/3
 print(mean)
 
 
-first_string="Понедельник,"
+first_string="Понедельник"
 second_string="Вторник"
-print(first_string," ",second_string)
+print(first_string,", ",second_string)
 
 a=5
 b=2

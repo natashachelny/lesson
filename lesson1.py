@@ -18,7 +18,8 @@ print(mean)
 
 first_string="Понедельник"
 second_string="Вторник"
-print(first_string,", ",second_string)
+a=","
+print(first_string+a, second_string)
 
 a=5
 b=2
